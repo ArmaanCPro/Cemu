@@ -20,3 +20,4 @@ out/
 # Cemu bin files
 otp.bin
 seeprom.bin
+bin/Cemu.pdb
